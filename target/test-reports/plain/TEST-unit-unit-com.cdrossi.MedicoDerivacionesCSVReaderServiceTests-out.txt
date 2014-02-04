@@ -1,0 +1,9 @@
+--Output from testCantidadColumnasCorrectas--
+--Output from testCantidadColumnasIncorrectas--
+--Output from testTodasMatriculasVacias--
+--Output from testMatriculaNacionalNoVacia--
+--Output from testMatriculaNacionalYProvincialNoVacia--
+--Output from testFileExtensionCSV--
+--Output from testFileExtensionNoCSV--
+--Output from testNombreValido--
+--Output from testNombreInvalido--

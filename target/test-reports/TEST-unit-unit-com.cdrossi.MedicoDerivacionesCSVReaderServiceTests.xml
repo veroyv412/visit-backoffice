@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="graion" name="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" tests="9" time="0.817" timestamp="2012-04-04T18:19:20">
+  <properties />
+  <testcase classname="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" name="testCantidadColumnasCorrectas" time="0.323" />
+  <testcase classname="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" name="testCantidadColumnasIncorrectas" time="0.013" />
+  <testcase classname="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" name="testTodasMatriculasVacias" time="0.211" />
+  <testcase classname="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" name="testMatriculaNacionalNoVacia" time="0.034" />
+  <testcase classname="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" name="testMatriculaNacionalYProvincialNoVacia" time="0.052" />
+  <testcase classname="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" name="testFileExtensionCSV" time="0.023" />
+  <testcase classname="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" name="testFileExtensionNoCSV" time="0.0060" />
+  <testcase classname="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" name="testNombreValido" time="0.017" />
+  <testcase classname="com.cdrossi.MedicoDerivacionesCSVReaderServiceTests" name="testNombreInvalido" time="0.0090" />
+  <system-out><![CDATA[--Output from testCantidadColumnasCorrectas--
+--Output from testCantidadColumnasIncorrectas--
+--Output from testTodasMatriculasVacias--
+--Output from testMatriculaNacionalNoVacia--
+--Output from testMatriculaNacionalYProvincialNoVacia--
+--Output from testFileExtensionCSV--
+--Output from testFileExtensionNoCSV--
+--Output from testNombreValido--
+--Output from testNombreInvalido--
+]]></system-out>
+  <system-err><![CDATA[--Output from testCantidadColumnasCorrectas--
+--Output from testCantidadColumnasIncorrectas--
+--Output from testTodasMatriculasVacias--
+--Output from testMatriculaNacionalNoVacia--
+--Output from testMatriculaNacionalYProvincialNoVacia--
+--Output from testFileExtensionCSV--
+--Output from testFileExtensionNoCSV--
+--Output from testNombreValido--
+--Output from testNombreInvalido--
+]]></system-err>
+</testsuite>

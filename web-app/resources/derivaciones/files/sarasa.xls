@@ -1,0 +1,23 @@
+update USUARIOS_R 
+	set 
+		twitter_oauth_token = null, 
+		twitter_oauth_token_secret = null,
+		twitter_request_token = null, 
+		twitter_request_token_secret = null
+where usuario_id = 1;
+
+
+
+update PERSONAS 
+set 
+		twitter_oauth_token = null, 
+		twitter_oauth_token_secret = null,
+		twitter_request_token = null, 
+		twitter_request_token_secret = null
+where persona_id = 168743;
+
+
+
+pendiente:
+- No funciona la URL de GWT, me da vacio
+
